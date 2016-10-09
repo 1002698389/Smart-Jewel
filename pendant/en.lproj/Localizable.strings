@@ -1,0 +1,22 @@
+
+"Home_TITLE"="Home";
+"BLE_TITLE"="BLUETOOTH CONNECT";
+"BLE_DIS"="Disconnected";
+"FLASHLIGHT"="Flashlight";
+"SWITCHCAMERA"="Switch";
+"PHOTO"="Photo";
+"CANCEL"="Cancel";
+
+"List_TITLE1"="Incoming Call";
+"List_TITLE2"="Text Message";
+"List_TITLE3"="E-MAIL";
+
+
+"ALERTTITLE"="Attention";
+"ALERTMESSAGE"="Attention Whether to save the modified Setting?";
+"ALERTCANCEL"="Cancel";
+"ALERTSAVE"="Save";
+
+"SaveMessage"="Saved Success";
+
+

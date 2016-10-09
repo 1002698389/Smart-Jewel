@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "SOUND"; ObjectID = "1Rg-PP-TbL"; */
+"1Rg-PP-TbL.text" = "サウンド";
+
+/* Class = "UILabel"; text = "Flashing Frequency"; ObjectID = "35E-Bx-Lro"; */
+"35E-Bx-Lro.text" = "フラッシング頻度";
+
+/* Class = "UIBarButtonItem"; title = "Smart Jewel"; ObjectID = "56q-W1-L0o"; */
+"56q-W1-L0o.title" = "Smart Jewel";
+
+/* Class = "UIButton"; normalTitle = "Remote Capturing"; ObjectID = "7P8-JW-20T"; */
+"7P8-JW-20T.normalTitle" = "リモート・カプチャリング";
+
+/* Class = "UILabel"; text = "Flashing Color"; ObjectID = "981-K8-hsP"; */
+"981-K8-hsP.text" = "フラッシングカラー";
+
+/* Class = "UILabel"; text = "Disconnected"; ObjectID = "ACn-cK-JLf"; */
+"ACn-cK-JLf.text" = "切断";
+
+/* Class = "UILabel"; text = "DEVICE STATUS"; ObjectID = "BUS-hN-iDX"; */
+"BUS-hN-iDX.text" = "DEVICE STATUS";
+
+/* Class = "UILabel"; text = "Status Notify"; ObjectID = "L4F-6P-eNI"; */
+"L4F-6P-eNI.text" = "ステータス通知";
+
+/* Class = "UILabel"; text = "Vibrating Frequency"; ObjectID = "TmJ-GL-J6t"; */
+"TmJ-GL-J6t.text" = "バイブレーション頻度";
+
+/* Class = "UILabel"; text = "Vibrating Notify"; ObjectID = "WjD-X6-imp"; */
+"WjD-X6-imp.text" = "バイブレーション通知";
+
+/* Class = "UILabel"; text = "LED LIGHTS"; ObjectID = "X7Q-Hk-bJj"; */
+"X7Q-Hk-bJj.text" = "LEDライト";
+
+/* Class = "UILabel"; text = "Disconnected"; ObjectID = "XNE-oj-Yfc"; */
+"XNE-oj-Yfc.text" = "切断";
+
+/* Class = "UILabel"; text = "Sound Notify"; ObjectID = "fsf-si-o4z"; */
+"fsf-si-o4z.text" = "サウンド通知";
+
+/* Class = "UILabel"; text = "CAMERA"; ObjectID = "gm4-AB-Zwh"; */
+"gm4-AB-Zwh.text" = "カメラ";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "gnp-xc-gXH"; */
+"gnp-xc-gXH.text" = "0%";
+
+/* Class = "UILabel"; text = "VIBRATION"; ObjectID = "iur-Xk-bv4"; */
+"iur-Xk-bv4.text" = "バイブレーション";
+
+/* Class = "UILabel"; text = "Flashing Notify"; ObjectID = "t9r-TC-EeY"; */
+"t9r-TC-EeY.text" = "フラッシング通知";
+
+/* Class = "UILabel"; text = "Volume"; ObjectID = "ww6-wt-oIl"; */
+"ww6-wt-oIl.text" = "音量";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "xYx-V7-I1v"; */
+"xYx-V7-I1v.text" = "0%";
+
+/* Class = "UILabel"; text = "NOTIFICATION"; ObjectID = "yMY-Pb-two"; */
+"yMY-Pb-two.text" = "通知";

@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "SOUND"; ObjectID = "1Rg-PP-TbL"; */
+"1Rg-PP-TbL.text" = "ЗВУК";
+
+/* Class = "UILabel"; text = "Flashing Frequency"; ObjectID = "35E-Bx-Lro"; */
+"35E-Bx-Lro.text" = "Частота Мигания";
+
+/* Class = "UIBarButtonItem"; title = "Smart Jewel"; ObjectID = "56q-W1-L0o"; */
+"56q-W1-L0o.title" = "Smart Jewel";
+
+/* Class = "UIButton"; normalTitle = "Remote Capturing"; ObjectID = "7P8-JW-20T"; */
+"7P8-JW-20T.normalTitle" = "Удаленный Захват";
+
+/* Class = "UILabel"; text = "Flashing Color"; ObjectID = "981-K8-hsP"; */
+"981-K8-hsP.text" = "Цвет Мигания";
+
+/* Class = "UILabel"; text = "Disconnected"; ObjectID = "ACn-cK-JLf"; */
+"ACn-cK-JLf.text" = "Отключен";
+
+/* Class = "UILabel"; text = "DEVICE STATUS"; ObjectID = "BUS-hN-iDX"; */
+"BUS-hN-iDX.text" = "DEVICE STATUS";
+
+/* Class = "UILabel"; text = "Status Notify"; ObjectID = "L4F-6P-eNI"; */
+"L4F-6P-eNI.text" = "Оповещение О Статусе";
+
+/* Class = "UILabel"; text = "Vibrating Frequency"; ObjectID = "TmJ-GL-J6t"; */
+"TmJ-GL-J6t.text" = "Частота Вибрации";
+
+/* Class = "UILabel"; text = "Vibrating Notify"; ObjectID = "WjD-X6-imp"; */
+"WjD-X6-imp.text" = "Режим Вибрации";
+
+/* Class = "UILabel"; text = "LED LIGHTS"; ObjectID = "X7Q-Hk-bJj"; */
+"X7Q-Hk-bJj.text" = "СВЕТОДИОДНЫЕ ИНДИКАТОРЫ";
+
+/* Class = "UILabel"; text = "Disconnected"; ObjectID = "XNE-oj-Yfc"; */
+"XNE-oj-Yfc.text" = "Отключен";
+
+/* Class = "UILabel"; text = "Sound Notify"; ObjectID = "fsf-si-o4z"; */
+"fsf-si-o4z.text" = "Звуковой Режим";
+
+/* Class = "UILabel"; text = "CAMERA"; ObjectID = "gm4-AB-Zwh"; */
+"gm4-AB-Zwh.text" = "ФОТОКАМЕРА";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "gnp-xc-gXH"; */
+"gnp-xc-gXH.text" = "0%";
+
+/* Class = "UILabel"; text = "VIBRATION"; ObjectID = "iur-Xk-bv4"; */
+"iur-Xk-bv4.text" = "ВИБРАЦИЯ";
+
+/* Class = "UILabel"; text = "Flashing Notify"; ObjectID = "t9r-TC-EeY"; */
+"t9r-TC-EeY.text" = "Мигающий Режим";
+
+/* Class = "UILabel"; text = "Volume"; ObjectID = "ww6-wt-oIl"; */
+"ww6-wt-oIl.text" = "Громкость Звука";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "xYx-V7-I1v"; */
+"xYx-V7-I1v.text" = "0%";
+
+/* Class = "UILabel"; text = "NOTIFICATION"; ObjectID = "yMY-Pb-two"; */
+"yMY-Pb-two.text" = "ИЗВЕЩЕНИЕ";

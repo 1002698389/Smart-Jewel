@@ -1,0 +1,22 @@
+
+"Home_TITLE"="Home";
+"BLE_TITLE"="CONNECTION BLUETOOTH";
+"BLE_DIS"="Déconnecté";
+"FLASHLIGHT"="Lampe de poche";
+"SWITCHCAMERA"="Interrupteur";
+"PHOTO"="Photo";
+"CANCEL"="Annuler";
+
+"List_TITLE1"="Appel Entrant";
+"List_TITLE2"="SMS";
+"List_TITLE3"="E-Mail";
+
+
+"ALERTTITLE"="attention";
+"ALERTMESSAGE"="Attention, si vous souhaitez enregistrer le paramètre modifié?";
+"ALERTCANCEL"="Annuler";
+"ALERTSAVE"="Enregistrer";
+
+"SaveMessage"="Saved Success";
+
+

@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "SOUND"; ObjectID = "1Rg-PP-TbL"; */
+"1Rg-PP-TbL.text" = "SONIDO";
+
+/* Class = "UILabel"; text = "Flashing Frequency"; ObjectID = "35E-Bx-Lro"; */
+"35E-Bx-Lro.text" = "Frecuencia Del Intermitente";
+
+/* Class = "UIBarButtonItem"; title = "Smart Jewel"; ObjectID = "56q-W1-L0o"; */
+"56q-W1-L0o.title" = "Smart Jewel";
+
+/* Class = "UIButton"; normalTitle = "Remote Capturing"; ObjectID = "7P8-JW-20T"; */
+"7P8-JW-20T.normalTitle" = "Captura Remota";
+
+/* Class = "UILabel"; text = "Flashing Color"; ObjectID = "981-K8-hsP"; */
+"981-K8-hsP.text" = "Color Del Intermitente";
+
+/* Class = "UILabel"; text = "Disconnected"; ObjectID = "ACn-cK-JLf"; */
+"ACn-cK-JLf.text" = "Desconectado";
+
+/* Class = "UILabel"; text = "DEVICE STATUS"; ObjectID = "BUS-hN-iDX"; */
+"BUS-hN-iDX.text" = "DEVICE STATUS";
+
+/* Class = "UILabel"; text = "Status Notify"; ObjectID = "L4F-6P-eNI"; */
+"L4F-6P-eNI.text" = "Notificación Del Estado";
+
+/* Class = "UILabel"; text = "Vibrating Frequency"; ObjectID = "TmJ-GL-J6t"; */
+"TmJ-GL-J6t.text" = "Frecuencia De La Vibración";
+
+/* Class = "UILabel"; text = "Vibrating Notify"; ObjectID = "WjD-X6-imp"; */
+"WjD-X6-imp.text" = "Notificación Con Vibración";
+
+/* Class = "UILabel"; text = "LED LIGHTS"; ObjectID = "X7Q-Hk-bJj"; */
+"X7Q-Hk-bJj.text" = "LUZ LED";
+
+/* Class = "UILabel"; text = "Disconnected"; ObjectID = "XNE-oj-Yfc"; */
+"XNE-oj-Yfc.text" = "Desconectado";
+
+/* Class = "UILabel"; text = "Sound Notify"; ObjectID = "fsf-si-o4z"; */
+"fsf-si-o4z.text" = "Notificación Sonora";
+
+/* Class = "UILabel"; text = "CAMERA"; ObjectID = "gm4-AB-Zwh"; */
+"gm4-AB-Zwh.text" = "CÁMARA";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "gnp-xc-gXH"; */
+"gnp-xc-gXH.text" = "0%";
+
+/* Class = "UILabel"; text = "VIBRATION"; ObjectID = "iur-Xk-bv4"; */
+"iur-Xk-bv4.text" = "VIBRACIÓN";
+
+/* Class = "UILabel"; text = "Flashing Notify"; ObjectID = "t9r-TC-EeY"; */
+"t9r-TC-EeY.text" = "Notificación Intermitente";
+
+/* Class = "UILabel"; text = "Volume"; ObjectID = "ww6-wt-oIl"; */
+"ww6-wt-oIl.text" = "Volumen";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "xYx-V7-I1v"; */
+"xYx-V7-I1v.text" = "0%";
+
+/* Class = "UILabel"; text = "NOTIFICATION"; ObjectID = "yMY-Pb-two"; */
+"yMY-Pb-two.text" = "NOTIFICACIÓN";
